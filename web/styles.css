@@ -22,6 +22,7 @@ ul {
 }
 
 li {
+	padding-left: 10px;
 	list-style-type: none;
 	font-size: 2em;
 }
@@ -38,11 +39,13 @@ a:hover {
 h1 {
 	font-size: 7em;
 	text-align: center;
+	margin-bottom: 0;
 }
 
 h2 {
-	font-size: 5em;
+	font-size: 4em;
 	text-align: center;
+	margin-top: 10px;
 }
 
 img {
@@ -58,7 +61,7 @@ p {
 }
 
 footer {
-	height: 150px;
+	height: 20px;
 	width: 100%;
 	background-color: black;
 	color: lightgray;

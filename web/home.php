@@ -13,7 +13,7 @@
 	?>
 	<h1>Ammon Carson</h1>
 	<h2>Web Engineering II Portfolio</h2>
-	<img src=".\images\banner.jpg" alt="banner image">
+	<img src="banner.jpg" alt="banner image">
 	<p>taking full stack web skills to a whole new level.</p>
 	<?php
 	include 'footer.html';

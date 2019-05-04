@@ -14,9 +14,12 @@ header {
 	align-items: center;
 }
 
+li {
+	list-style-type: none;
+}
+
 a {
 	text-decoration: underline;
-	list-style-type: none;
 	color: lightgrey;
 }
 
@@ -45,10 +48,12 @@ p {
 }
 
 footer {
+	height: 150px;
+	width: 100%;
 	background-color: black;
 	color: lightgray;
 	position: fixed;
    	left: 0;
-   	bottom: 0;
+	bottom: 0;
 }
 

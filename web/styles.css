@@ -57,7 +57,7 @@ img {
 }
 
 p {
-	margin-top: 0;
+	margin-top: 15px;
 	text-align: center;
 	font-size: 5em;
 	transition-timing-function: ease-in;

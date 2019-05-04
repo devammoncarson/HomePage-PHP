@@ -60,13 +60,14 @@ p {
 	text-align: center;
 	font-size: 5em;
 	transition-timing-function: ease-in;
+	transition-duration: 1s;
 }
 
 p:hover {
 	color: rgb(204, 85, 0);
 	font-size: 6em;
 	font-weight: bold;
-	/* transition-duration: 1s; */
+	transition-duration: 1s;
 	transition-timing-function: ease-out;
 }
 

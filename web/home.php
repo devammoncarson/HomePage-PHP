@@ -14,7 +14,7 @@
 	<h1>Ammon Carson</h1>
 	<h2>Web Engineering II Portfolio</h2>
 	<img src="banner.jpg" alt="banner image">
-	<p>taking full stack web skills to a whole new level.</p>
+	<p>taking full stack web skills to a whole new level</p>
 	<?php
 	include 'footer.html';
 	?>
